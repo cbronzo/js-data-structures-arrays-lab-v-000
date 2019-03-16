@@ -20,7 +20,7 @@ function destructivelyRemoveFirstDriver() {
 }
 
 function appendDriver(name) {
-  const allDrivers = [...drivers, ]
+  const allDrivers = [...drivers, "Broom"]
   drivers. ("Broom")
   
 }
