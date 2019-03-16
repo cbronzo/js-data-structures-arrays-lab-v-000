@@ -28,3 +28,8 @@ function prependDriver(name) {
   const newDrivers = ["Arnold", ...drivers]
   return newDrivers
 }
+
+removeLastDriver()
+
+
+removeFirstDriver()
